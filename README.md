@@ -16,3 +16,4 @@
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_9.png)
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_10.png)
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_11.png)
+# Измените базовую пропускную способность для маршрутизаторов.
