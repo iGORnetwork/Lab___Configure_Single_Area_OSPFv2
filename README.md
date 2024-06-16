@@ -5,4 +5,5 @@
 # Настраиваем статический идефикатор, включим OSPF на интерфейсах и помещаем в рабочую область 0. Убедимся, что OSPF работает между маршрутизаторами. R2 стал DR т.к id R2 больше чем у R1. Проверим доступность R2 Loopback 1 из R1
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_5.png)
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_6.png)
-# Убедимся, что оптимизация OSPFv2 реализовалась.
+# Реализация различных оптимизаций на каждом маршрутизаторе.
+## Настроем приоритет на R1 и изменим Hello, Dead интервалы.
