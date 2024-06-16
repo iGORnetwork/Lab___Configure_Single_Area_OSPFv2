@@ -12,4 +12,7 @@
 # На R1 настроем статический маршрут по умолчанию. Затем распространите маршрут по умолчанию в OSPF. 
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_7.png)
 # Добавим конфигурацию, необходимую для OSPF для обработки R2 Loopback 1 как сети точка-точка. R2 добавим конфигурацию, необходимую для предотвращения отправки объявлений OSPF в сеть Loopback 1.
-
+![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_8.png)
+![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_9.png)
+![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_10.png)
+![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_11.png)
