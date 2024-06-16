@@ -9,3 +9,4 @@
 ## Настроем приоритет на R1 и изменим Hello, Dead интервалы.
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_4.png)
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_8.png)
+# На R1 настроем статический маршрут по умолчанию. Затем распространите маршрут по умолчанию в OSPF. 
