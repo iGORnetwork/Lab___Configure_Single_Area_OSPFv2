@@ -22,3 +22,4 @@
 # Убедитесь, что оптимизация OSPFv2 реализовалась.
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_14.png)
 ![](https://github.com/iGORnetwork/Lab___Configure_Single_Area_OSPFv2/blob/main/imeg/Screenshot_15.png)
+# end
